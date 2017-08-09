@@ -1,0 +1,4 @@
+# Minute, jede Stunde, Tag, Monat, Wochentag
+*/15 * * * * root /usr/local/bin/esxi-smartmon-pushgateway.sh microserver-g8
+*/15 * * * * root /usr/local/bin/esxi-smartmon-pushgateway.sh tiny2
+*/15 * * * * root /usr/local/bin/esxi-smartmon-pushgateway.sh dell-t20
